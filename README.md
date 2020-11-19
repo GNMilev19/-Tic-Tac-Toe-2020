@@ -1,1 +1,1 @@
-# -Tic-Tac-Toe-2020
+# Tic-Tac-Toe-2020
